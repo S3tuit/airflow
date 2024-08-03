@@ -1,0 +1,7 @@
+{
+    "variables" : [ {
+      "name" : "COUNTER",
+      "value" : 2,
+      "description" : ""
+    } ]
+  }
